@@ -1,0 +1,2 @@
+Caminho para acessar o projeto: C:\Users\cassi\Desktop\Curso de Angular\MeuProjeto
+Para abrir o projeto: code .
